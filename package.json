@@ -1,0 +1,22 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "Codejam-3 coreJS",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bmain\u001b[\u001b[C\u001b[C\u001b[.js\u001b[C\u001b)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/robertiqk/rsschool-codejam.git"
+  },
+  "author": "Robert Borovik delux1945@gmail.com\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D <\u001b[C\u001b[Ddelux1945@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertiqk/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/robertiqk/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
+}
