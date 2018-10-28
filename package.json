@@ -1,0 +1,24 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "Codejam-3 coreJS",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/robertiqk/rsschool-codejam.git"
+  },
+  "author": "Robert Borovik delux1945@gmail.com <delux1945@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertiqk/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/robertiqk/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  }
+}
