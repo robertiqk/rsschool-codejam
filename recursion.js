@@ -1,4 +1,4 @@
-function recursion(obj) {
+module.exports = function recursion(obj) {
   const result = [];
   const depth = 0;
 
